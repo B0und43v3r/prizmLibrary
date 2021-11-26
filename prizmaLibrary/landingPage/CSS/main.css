@@ -1,0 +1,54 @@
+.bgimage {
+    background-size: cover;
+}
+img.medium {
+    width: 1250px;
+    height: 300px;
+    margin-top: -4em;
+    padding-bottom: 1em;
+}
+
+.welcome {
+    color: white;
+    font-size: 70px;
+    margin-left: 5.3em;
+}
+
+.giveand {
+    color: white;
+    font-size: 25pt;
+    margin-left: 12.9em;
+}
+
+.share {
+    color: white;
+    font-size: 15pt;
+    margin-left: 28em;
+}
+
+button {
+    display: inline-block;
+    background-color: lightseagreen;
+    border-radius: 10px;
+    border: 4px double lightseagreen;
+    color: white;
+    text-align: center;
+    font-size: 25pt;
+    cursor: pointer;
+    margin-left: 14.6em;
+    margin-top: 1em;
+}
+
+button:hover {
+    background-color: white;
+}
+
+.footer {
+    margin-top: 6em;
+    margin-left: 22em;
+}
+.donations {
+    color: white;
+    margin-left: 3.7em;
+}
+
